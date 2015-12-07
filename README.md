@@ -1,3 +1,2 @@
 # ScriptProgramming
-Our project for this term
- Site mirroring
+Website Mirroring Term Project
